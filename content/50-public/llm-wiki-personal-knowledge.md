@@ -1,6 +1,7 @@
 ---
 title: 把 Karpathy 的 LLM Wiki 变成个人知识库工作流
 date: 2026-06-04
+status: published
 tags:
   - ai
   - knowledge-management
@@ -9,6 +10,7 @@ tags:
   - quartz
 publish: true
 slug: llm-wiki-personal-knowledge
+summary: 把 Karpathy 的 LLM Wiki 思路落到个人知识库：用 Markdown、Obsidian、Git 和 LLM 维护可引用的知识编译层。
 ---
 
 # 把 Karpathy 的 LLM Wiki 变成个人知识库工作流

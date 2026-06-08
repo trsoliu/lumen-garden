@@ -1,6 +1,7 @@
 ---
 title: 把写文章变成可复用流程：从素材到公开发布
 date: 2026-06-04
+status: published
 tags:
   - writing
   - automation
@@ -9,6 +10,7 @@ tags:
   - knowledge-management
 publish: true
 slug: article-automation-workflow
+summary: 把 AI 写作拆成素材、提纲、草稿、审查、发布门禁和复盘，让文章生产可追踪可复用。
 ---
 
 # 把写文章变成可复用流程：从素材到公开发布

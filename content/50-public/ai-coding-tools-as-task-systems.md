@@ -1,6 +1,7 @@
 ---
 title: AI Coding 的上限，不只由提示词决定
 date: 2026-06-04
+status: published
 tags:
   - ai
   - coding
@@ -8,6 +9,7 @@ tags:
   - workflow
 publish: true
 slug: ai-coding-tools-as-task-systems
+summary: AI Coding 的关键不只是提示词，而是工具如何组织上下文、执行、验证和经验复用。
 ---
 
 # AI Coding 的上限，不只由提示词决定

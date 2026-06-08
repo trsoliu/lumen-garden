@@ -1,6 +1,7 @@
 ---
 title: Agent CLI 真正难的不是接模型，而是工程组织
 date: 2026-06-04
+status: published
 tags:
   - ai
   - agent
@@ -8,6 +9,7 @@ tags:
   - engineering
 publish: true
 slug: agent-cli-engineering-organization
+summary: 从非官方 source map 样本出发，讨论 Agent CLI 的命令、工具、上下文、编排、插件和验证等工程分层。
 ---
 
 # Agent CLI 真正难的不是接模型，而是工程组织

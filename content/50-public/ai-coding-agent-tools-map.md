@@ -1,6 +1,7 @@
 ---
 title: AI Coding 和 Agent 工具：一张个人知识库里的工具地图
 date: 2026-06-04
+status: published
 tags:
   - ai
   - agent
@@ -9,6 +10,7 @@ tags:
   - workflow
 publish: true
 slug: ai-coding-agent-tools-map
+summary: 把 AI Coding 工具按模型、入口、上下文、记忆和发布流程分层，作为个人知识库里的工具地图。
 ---
 
 # AI Coding 和 Agent 工具：一张个人知识库里的工具地图
